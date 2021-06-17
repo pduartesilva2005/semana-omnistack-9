@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="AirCNC" title="AirCNC" src=".github/logo.png" />
+  <img alt="AirCNC" title="AirCNC" src=".github/logo.png" width="250px" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/podcastr.png" width="100%">
+  <img alt="AirCNC" src=".github/aircnc.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
